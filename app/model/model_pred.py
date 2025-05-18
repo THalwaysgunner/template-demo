@@ -1,1 +1,2 @@
-
+def ModelPred():
+    return "ModelPred"

@@ -1,1 +1,10 @@
 
+
+__pycache__/
+.git/
+.vscode/
+.venv/
+
+*.pyc
+*.cfg
+*.mat
